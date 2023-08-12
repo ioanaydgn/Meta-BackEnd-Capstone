@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:littlelemon}/db.sqlite3",
+            "name": "admin"
+        }
+    ]
+}
